@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>structures</OriginalElement>
+  <nodes>
+    <node x="1409.0" y="980.0">tests.SortedListTest</node>
+    <node x="339.0" y="1961.0">exceptions.StackUnderflowException</node>
+    <node x="1489.0" y="1609.0">model.UserDB</node>
+    <node x="0.0" y="1609.0">tests.BoundedStackTest</node>
+    <node x="1625.0" y="1961.0">exceptions.EmptyListException</node>
+    <node x="1588.5" y="0.0">interfaces.Stack</node>
+    <node x="0.0" y="1256.0">model.User</node>
+    <node x="954.0" y="1609.0">tests.UserTest</node>
+    <node x="1250.0" y="1609.0">structures.Node</node>
+    <node x="483.0" y="1609.0">tests.BoundedQueueTest</node>
+    <node x="1071.0" y="222.0">structures.BoundedQueue</node>
+    <node x="670.0" y="1961.0">exceptions.QueueOverflowException</node>
+    <node x="1809.0" y="1609.0">exceptions.DuplicateElementException</node>
+    <node x="69.0" y="0.0">interfaces.IndexedList</node>
+    <node x="1526.0" y="249.0">structures.BoundedStack</node>
+    <node x="804.0" y="980.0">tests.IndexedListTest</node>
+    <node x="249.0" y="980.0">model.Person</node>
+    <node x="634.5" y="0.0">interfaces.OrderedList</node>
+    <node x="1322.0" y="1961.0">model.UserIO</node>
+    <node x="1140.5" y="0.0">interfaces.Queue</node>
+    <node x="0.0" y="411.0">structures.IndexedList</node>
+    <node x="1000.0" y="1961.0">exceptions.StackOverflowException</node>
+    <node x="0.0" y="1961.0">exceptions.QueueUnderflowException</node>
+    <node x="563.0" y="330.0">structures.SortedList</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="structures.IndexedList" target="interfaces.IndexedList">
+      <point x="0.0" y="-262.0" />
+      <point x="0.0" y="180.5" />
+    </edge>
+    <edge source="structures.BoundedQueue" target="interfaces.Queue">
+      <point x="0.0" y="-195.0" />
+      <point x="0.0" y="86.0" />
+    </edge>
+    <edge source="model.User" target="model.Person">
+      <point x="0.0" y="-154.0" />
+      <point x="0.0" y="113.0" />
+    </edge>
+    <edge source="structures.BoundedStack" target="interfaces.Stack">
+      <point x="0.0" y="-181.5" />
+      <point x="0.0" y="99.5" />
+    </edge>
+    <edge source="structures.SortedList" target="interfaces.OrderedList">
+      <point x="0.0" y="-181.0" />
+      <point x="0.0" y="140.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7443082311733801" x="973.9458823529412" y="141.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="601.0" prefWidth="696.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.LoggedInJavaFXView">
+   <children>
+      <Label alignment="CENTER" layoutX="20.0" layoutY="29.0" prefHeight="199.0" prefWidth="651.0" text="Welcome" textAlignment="CENTER">
+         <font>
+            <Font size="64.0" />
+         </font>
+      </Label>
+      <Accordion layoutX="79.0" layoutY="254.0" />
+   </children>
+</Pane>
